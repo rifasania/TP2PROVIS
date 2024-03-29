@@ -2,7 +2,7 @@
 
 NIM : 2206697 <br/>
 Nama : Rifa Sania <br/>
-Kelas : Ilmu Komputer - C1
+Kelas : Ilmu Komputer - C1 <br/>
 Kelompok 7
 
 <br/>
